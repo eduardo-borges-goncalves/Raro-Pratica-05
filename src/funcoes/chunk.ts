@@ -1,3 +1,4 @@
+/**
  * Cria um array de grupos de elementos divididos em tamanho 
  * máximo igual ao parâmetro "tamanho". O último elemento deste
  * novo array deverá conter o restante dos itens,
