@@ -1,3 +1,7 @@
+# Exercício sobre Git Flow
+
+Esse exercício / projeto da Raro Academy teve como finalidade aprendermos sobre a prática de desenvolvimento com o fluxo do git flow. 
+
 # Prática 05 - revisão da semana
 
 ### 1. complete as funções
